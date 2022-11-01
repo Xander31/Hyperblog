@@ -1,5 +1,6 @@
 body
 {
+    background: black;
     color: gold;
     text-align: center;
     font-family: "Arial";
@@ -19,4 +20,16 @@ body
 #container h1
 {
     font-size: 60px;
+}
+
+#cabecera
+{
+    background: orange;
+    color: white;
+}
+
+#cabecera #logo
+{
+    padding: 0 0 0 1em;
+    font-size: 0.8em;
 }
