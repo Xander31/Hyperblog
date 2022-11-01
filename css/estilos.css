@@ -20,3 +20,10 @@ body
 {
     font-size: 60px;
 }
+
+#footer
+{
+    background: cadetblue;
+    color: white;
+    text-align: center;
+}
